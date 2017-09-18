@@ -1,0 +1,35 @@
+#header-image {
+display: block;
+margin-left: auto;
+margin-right: auto; 
+padding: 27px 27px;   
+}
+
+.song {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 27px 27px;    
+}
+
+h1 {
+color: #ffffff;
+text-align: center;    
+}
+
+p {
+color: #ffffff;
+line-height: 27px;
+margin: 27px 27px;
+padding: 27px 27px;    
+}
+
+body {
+background-color: #ABD8C4;
+}
+
+footer {
+color: #ffffff; 
+text-align: right;
+padding: 11px;   
+}
